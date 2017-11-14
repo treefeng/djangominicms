@@ -1,0 +1,2 @@
+# djangominicms
+first django
